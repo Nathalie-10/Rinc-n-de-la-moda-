@@ -1,0 +1,27 @@
+.contenetor .contenetor-item{
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    grid-gap: 30px;
+    grid-row-gap:30px ;
+    width: 100%;
+    transition: .3s;
+}
+
+.contenetor .contenetor-items .items{
+    max-width: 200 px;
+
+}
+
+.contenetor-items .item .pantalones 1-item
+
+.footer-row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-links{
+    width: 25%;
+    padding:0 15px;
+    
+}
